@@ -1,3 +1,6 @@
+Solution :-
+	
+
 package assignments;
 
 import java.util.Scanner;

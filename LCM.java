@@ -32,5 +32,4 @@ public class LCM {
 		}
 		System.out.println("LCM of " + n1 + " and " + n2 + " is :- " + lcm);
 	}
-
 }
